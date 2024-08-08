@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-As a Full-Stack Web developer. I am a committed problem solver, a team player and an effective communicator.
+As a Full-Stack Web/Mobile developer. I am a committed problem solver, a team player and an effective communicator. I enjoy building scalable and efficient applications and exploring new technologies and frameworks to improve my skill.
 
 ## 🌐 Socials:
 <p align="left">
