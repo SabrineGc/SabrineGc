@@ -26,6 +26,6 @@ As a Full-Stack Web/Mobile developer. I am a committed problem solver, a team pl
 
 
 ---
-![](https://visitcount.itsvg.in/api?id=SabrineGc&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SabrineGc&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
